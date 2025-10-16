@@ -3,11 +3,11 @@
 ## 📎Привет!
 
 Я Максим, начинающий фронтенд-разработчик. Делаю проекты с использование HTML, CSS и JS (React).  
-Для обучения использовал ресурсы:
-📚 [The Odin Project](https://www.theodinproject.com/)
-📚 [Learn.Javascript](https://learn.javascript.ru/)
-📚 [Hexlet](https://ru.hexlet.io/)
-📚 Официальная документация
+Для обучения использовал ресурсы:  
+📚 [The Odin Project](https://www.theodinproject.com/)  
+📚 [Learn.Javascript](https://learn.javascript.ru/)  
+📚 [Hexlet](https://ru.hexlet.io/)  
+📚 Официальная документация  
 
 ## 🔨Что я использую
 
@@ -15,9 +15,9 @@
 
 ## 📌 Мои проекты
 
-🤖 [Landing Page for a Mobile App](https://github.com/li-maksim/sleep_app) — лендинг для мобильного приложения (адаптирован для мобильных устройств).
-🛒 [Online Store](https://github.com/li-maksim/shop_cart?tab=readme-ov-file) — интернет-магазин (адаптирован для мобильных устройств).
-📊 [CV Constructor](https://github.com/li-maksim/cv_application) — конструктор резюме.
+🤖 [Landing Page for a Mobile App](https://github.com/li-maksim/sleep_app) — лендинг для мобильного приложения (адаптирован для мобильных устройств)  
+🛒 [Online Store](https://github.com/li-maksim/shop_cart?tab=readme-ov-file) — интернет-магазин (адаптирован для мобильных устройств)  
+📊 [CV Constructor](https://github.com/li-maksim/cv_application) — конструктор резюме  
 
 Проекты созданы с использованием React.
 
