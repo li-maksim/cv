@@ -21,7 +21,7 @@
 
 Проекты созданы с использованием React.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=li-maksim&layout=compact&theme=transparent&title_color=6E3EAF&text_color=2E2E2E&border_color=6E3EAF&bg_color=00000000&hide_border=false)
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=li-maksim&layout=compact&theme=radical&hide=swift,csharp'/>
 
 ## Навыки
 
